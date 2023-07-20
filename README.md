@@ -1,5 +1,5 @@
 <h2 align="center">
-  Cogny Web/Mobile Teste
+  Shoes Store
 </h2>
 
 <p align="center">
